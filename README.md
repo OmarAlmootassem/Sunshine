@@ -1,4 +1,4 @@
 Sunshine-Weather-App
 ====================
 
-Android App
+Android Weather App
